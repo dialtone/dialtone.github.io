@@ -25,7 +25,7 @@ taxonomies = [
 
 [extra]
 # Put all your custom variables here
-even_title = "Twisted"
+even_title = ""
 # This is the default menu
 even_menu = [
     {url = "$BASE_URL", name = "Home"},
