@@ -6,4 +6,23 @@
     <url>
         <loc>https://twisted.it/about/</loc>
     </url>
+    <url>
+        <loc>https://twisted.it/categories/</loc>
+    </url>
+    <url>
+        <loc>https://twisted.it/categories/general/</loc>
+    </url>
+    <url>
+        <loc>https://twisted.it/intro/</loc>
+        <lastmod>2020-12-27</lastmod>
+    </url>
+    <url>
+        <loc>https://twisted.it/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://twisted.it/tags/</loc>
+    </url>
+    <url>
+        <loc>https://twisted.it/tags/intro/</loc>
+    </url>
 </urlset>
