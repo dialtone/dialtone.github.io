@@ -79,3 +79,4 @@ if (document.readyState === "complete" ||
   document.addEventListener("DOMContentLoaded", initMobile);
   document.addEventListener("DOMContentLoaded", initToc);
 }
+
